@@ -3,12 +3,17 @@ Landing
 #https://learn.lewagon.com/welcome
 
 #Let's download codding-workshop files from
+
 http://lew.ag/landing-page-boilerplate or
+
 https://github.com/Sayem-M/coding-workshop.git
 
 #Take a look on Color Picker
+
 #Check out-- https://fontpair.co/
+
 #download your desired--google font
+
 #A tints and shades generator tool
 https://noeldelgado.github.io/shadowlord/#31AB64
 
@@ -18,10 +23,9 @@ https://noeldelgado.github.io/shadowlord/#31AB64
 
 #CSS syntex inside HTML
 <style>
-all-code-with-css
-color: rgba(255, 80,100, 1.0)
+all-codes and links-with-css
+color: rgba(255, 80, 100, 1.0)
 font-weight: 100-900
-
 a{
 text-direction=none; /*no underline*/}
 </style>
